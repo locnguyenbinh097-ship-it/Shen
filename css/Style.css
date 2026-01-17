@@ -1,2 +1,5 @@
-*{
+*{ accent-color: #ffffff; font-family: Verdana, Geneva, Tahoma;
+box-sizing: border-box;
+margin: 0;
+padding: 0;
 }
